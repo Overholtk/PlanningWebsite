@@ -9,4 +9,4 @@
 
 ## Project Ideas:
 
-## Journal
+## [Journal](JournalEntries/Home)
