@@ -16,12 +16,15 @@
 - [ ] Authentication
 - [ ] Push notifications and setup
 - [ ] Research and link to good outside resources
+- [ ] Create form
+- [ ] Link form to database
 
 ### Polish:
 
 - [ ] Style
 - [ ] Put on app stores?
 - [ ] README
+- [ ] Settings page
 
 ### Stretch:
 - [ ] Add notecard
