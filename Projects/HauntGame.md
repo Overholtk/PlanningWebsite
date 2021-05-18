@@ -8,7 +8,7 @@
 
 ### Basic Demo:
 
-- [] Build player inventory
+- [ ] Build player inventory
 - [] Spawn items in game
 - [] Basic enemy AI
 - [] One puzzle
