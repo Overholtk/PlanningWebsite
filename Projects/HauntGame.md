@@ -9,35 +9,35 @@
 ### Basic Demo:
 
 - [ ] Build player inventory
-- [] Spawn items in game
-- [] Basic enemy AI
-- [] One puzzle
+- [ ] Spawn items in game
+- [ ] Basic enemy AI
+- [ ] One puzzle
 
 ### Actual Game:
 
-- [] Build house's upper floor and basement.
-- [] Assets for house (walls, floors, etc.)
-- [] Models for player and enemies
-- [] Fill house with scenery objects
-- [] Assets for objects
-- [] 3rd person view
-- [] Expand puzzles
-- [] README
+- [ ] Build house's upper floor and basement.
+- [ ] Assets for house (walls, floors, etc.)
+- [ ] Models for player and enemies
+- [ ] Fill house with scenery objects
+- [ ] Assets for objects
+- [ ] 3rd person view
+- [ ] Expand puzzles
+- [ ] README
 
 ### Polish:
 
-- [] Ambient audio
-- [] Player notes (notes auto taken by the protagonist, player can also add their own notes)
-- [] Font selection for accessibility
-- [] Home menu
-- [] Pause menu
-- [] Save / Load
+- [ ] Ambient audio
+- [ ] Player notes (notes auto taken by the protagonist, player can also add their own notes)
+- [ ] Font selection for accessibility
+- [ ] Home menu
+- [ ] Pause menu
+- [ ] Save / Load
 
 ### Stretch:
 
-- [] Give the house an explorable yard
-- [] Music
-- [] Voiced Enemies
+- [ ] Give the house an explorable yard
+- [ ] Music
+- [ ] Voiced Enemies
 
 ## About:
 
