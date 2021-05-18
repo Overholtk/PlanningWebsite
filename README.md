@@ -10,7 +10,7 @@
 - [DnD App](Ideas/DnDApp.md)
 - [Random Generation Widget](Ideas/RanGen.md)
 - [Tumblr Bots for podcast](Ideas/Bots.md)
-- DM Toolkit
+- [DM Toolkit](Ideas/DMToolkit.md)
 
 ## Other To Do's:
 - Start Python
