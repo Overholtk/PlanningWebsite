@@ -43,4 +43,4 @@
 
 A short horror game about escaping a haunted house. Built with Unity and C#.
 
-[Repository](https://github.com/Overholtk/HouseHauntGame)
+[Repo](https://github.com/Overholtk/HouseHauntGame)
