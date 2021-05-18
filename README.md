@@ -3,7 +3,7 @@
 
 ## Current Projects:
 
-- Haunted House Unity Game
+- [Haunted House Unity Game](Projects/HauntGame)
 - Meal Tracker Phone App
 - DnD Web App (Console App?)
 
