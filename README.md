@@ -9,7 +9,7 @@
 ## Project Ideas:
 - [DnD App](Ideas/DnDApp.md)
 - [Random Generation Widget](Ideas/RanGen.md)
-- Tumblr Bots for podcast
+- [Tumblr Bots for podcast](Ideas/Bots.md)
 - DM Toolkit
 
 ## Other To Do's:
