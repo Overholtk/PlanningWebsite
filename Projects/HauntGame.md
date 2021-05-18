@@ -32,12 +32,14 @@
 - [ ] Home menu
 - [ ] Pause menu
 - [ ] Save / Load
+- [ ] Settings
 
 ### Stretch:
 
 - [ ] Give the house an explorable yard
 - [ ] Music
 - [ ] Voiced Enemies
+- [ ] Controller compatibility
 
 ## About:
 
