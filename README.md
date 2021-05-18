@@ -14,5 +14,6 @@
 
 ## Other To Do's:
 - Start Python
+- React
 
 ## [Journal](JournalEntries/Home.md)
