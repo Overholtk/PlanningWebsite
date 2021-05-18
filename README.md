@@ -7,7 +7,7 @@
 - [Meal Tracker Phone App](Projects/MealPlanner.md)
 
 ## Project Ideas:
-- DnD App
+- [DnD App](Ideas/DnDApp.md)
 - Random Generation Widget
 - Tumblr Bots for podcast
 
