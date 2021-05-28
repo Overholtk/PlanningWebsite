@@ -11,6 +11,7 @@
 - [Random Generation Widget](Ideas/RanGen.md)
 - [Tumblr Bots for podcast](Ideas/Bots.md)
 - [DM Toolkit](Ideas/DMToolkit.md)
+- Weekly To-Do's, spoon theory
 
 ## Other To Do's:
 - Start Python
